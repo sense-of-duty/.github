@@ -33,9 +33,9 @@ GDG On Campus 커뮤니티 운영을 위한 통합 웹 플랫폼입니다.
 
 ### Backend
 - Java 17 / Spring Boot
-- Spring Security (Stateless)
-- JWT (JJWT)
-- Validation (Jakarta Validation)
+- Spring Security
+- JWT
+- Jakarta Validation
 - Swagger / OpenAPI
 - Storage: AWS S3
 
