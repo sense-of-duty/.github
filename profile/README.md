@@ -37,7 +37,7 @@ GDG On Campus 커뮤니티 운영을 위한 통합 웹 플랫폼입니다.
 - JWT (JJWT)
 - Validation (Jakarta Validation)
 - Swagger / OpenAPI
-- Storage: AWS S3 (프로필 이미지)
+- Storage: AWS S3
 
 ### Frontend
 - React + Vite
