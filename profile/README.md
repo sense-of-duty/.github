@@ -32,7 +32,7 @@ GDG On Campus 커뮤니티 운영을 위한 통합 웹 플랫폼입니다.
 ## Tech Stack
 
 ### Backend
-- Java 17+ / Spring Boot
+- Java 17 / Spring Boot
 - Spring Security (Stateless)
 - JWT (JJWT)
 - Validation (Jakarta Validation)
